@@ -15,3 +15,10 @@ Below is a table in which I mentioned the Names, location and the reason to visi
 | Cheesy Crust Pizzeria | Offers a unique blend of cheeses and perfectly seasoned chicken. | 456 Oak Avenue, Townsville |
 | Chicken & Cheese Delight | Famous for its deliciously crispy crust and flavorful chicken | 789 Elm Road, Villageburg |
 |The Pizza Spot|Renowned for its flavorful chicken and exceptional cheese blend.|101 Maple Lane, Brooktown|
+***
+## Humorous Quotes
+Here are two humorous quotes from *Oscar Wilde*:
+
+``` I  can resist everything except temptation. ```
+
+```Be yourself; everyone else is already taken.```
