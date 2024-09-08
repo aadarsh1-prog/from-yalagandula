@@ -4,3 +4,14 @@ The mix of delicate chicken and oozy, melted cheese creates a delectable symphon
 Here's a picture of a chicken cheese pizza
 
 ![image](th.jpeg)
+
+***
+
+## Recommended Restaurants
+Below is a table in which I mentioned the Names, location and the reason to visit the restaurant.
+| Restaurant Name | Reason for Recommendation | Location |
+| --- | :--- | --- |
+| Pizza Haven | Known for its rich, creamy extra cheesy chicken pizza and generous toppings. | 123 Main Street, Cityville |
+| Cheesy Crust Pizzeria | Offers a unique blend of cheeses and perfectly seasoned chicken. | 456 Oak Avenue, Townsville |
+| Chicken & Cheese Delight | Famous for its deliciously crispy crust and flavorful chicken | 789 Elm Road, Villageburg |
+|The Pizza Spot|Renowned for its flavorful chicken and exceptional cheese blend.|101 Maple Lane, Brooktown|
