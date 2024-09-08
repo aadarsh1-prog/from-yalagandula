@@ -17,6 +17,3 @@ I enjoy cricket because it combines **dramatic moments** with great play, and it
 * Feild
 * Backyard
 * Stadium
-
-Here's a link to a file about my favourite food
-[Chicken Cheese Pizza.](MyDish.md) 
