@@ -22,3 +22,10 @@ Here are two humorous quotes from *Oscar Wilde*:
 ``` I  can resist everything except temptation. ```
 
 ```Be yourself; everyone else is already taken.```
+***
+## Code Snippet
+This JavaScript removes html tags from strings.
+
+```const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");```
+
+For Reference do visit [JS Tutorials](https://code.pieces.app/collections/javascript)
